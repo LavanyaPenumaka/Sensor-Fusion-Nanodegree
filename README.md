@@ -53,7 +53,7 @@ The goal is not to become a perception developer. The goal is to become a valida
 - Point cloud structure - X, Y, Z, Intensity
 - PCL (Point Cloud Library) for processing
 - Voxel Grid filtering - downsampling raw point cloud
-- RANSAC — ground plane segmentation
+- RANSAC - ground plane segmentation
 - Euclidean Clustering - grouping points into objects
 - 3D Bounding Box generation
 
@@ -63,7 +63,7 @@ In HIL testing, LiDAR sensor models feed simulated point clouds into the ADAS EC
 **Tools:** C++, PCL Library, CMake, Ubuntu
 
 ## Certification
-ISTQB Certified Tester — Foundation Level (CTFL)
+ISTQB Certified Tester - Foundation Level (CTFL)
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/lavanya-penumaka/)
