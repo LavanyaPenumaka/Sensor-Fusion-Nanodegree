@@ -58,7 +58,7 @@ The goal is not to become a perception developer. The goal is to become a valida
 - 3D Bounding Box generation
 
 **Why this matters for validation:**
-In HIL testing, LiDAR sensor models feed simulated point clouds into the ADAS ECU. Understanding point cloud processing helps design smarter test scenarios - sparse point clouds, ground plane ambiguity, object occlusion — edge cases that black box testing misses.
+In HIL testing, LiDAR sensor models feed simulated point clouds into the ADAS ECU. Understanding point cloud processing helps design smarter test scenarios - sparse point clouds, ground plane ambiguity, object occlusion edge cases that black box testing misses.
 
 **Tools:** C++, PCL Library, CMake, Ubuntu
 
